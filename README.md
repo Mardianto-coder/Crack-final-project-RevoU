@@ -1,4 +1,4 @@
-# Next.js LMS Starter
+# Next.js LMS 
 
 A minimal Learning Management System built with:
 
