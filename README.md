@@ -59,3 +59,4 @@ Open http://localhost:3000
 - This is a starter; extend with proper UI (component library), client quiz UI, admin CMS, etc.
 - For production auth, add OAuth providers and email verification.
 - Consider RLS or row-level access patterns if you ever expose direct SQL.
+- open this github https://github.com/Mardianto-coder/Crack-final-project-RevoU.git
