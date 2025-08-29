@@ -1,7 +1,8 @@
+import "./index.css";
 import React, { useEffect, useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { BookOpen, GraduationCap, Plus, LogOut, Shield, User, Search, Layers, Clock, Trophy, CheckCircle2, XCircle, Edit3, Trash2, BarChart3 } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "./components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
